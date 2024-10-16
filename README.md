@@ -1,4 +1,5 @@
 # ASTR 3010
+## Observational Astronomy
 
 <h1 align="center">
   <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/-Python 3.10+-blue?style=for-the-badge&logo=python&logoColor=white"></a>
