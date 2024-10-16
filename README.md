@@ -9,16 +9,16 @@ This is the repository for the ASTR 3010 course for UGA@Oxford during the Fall (
 
 The class format will be 8 one-hour lectures. There will be a total of 5 assignments, the average of which will be the final grade. All assignments will be returned with feedback before the next assignment is released. The grading scale is as follows:
 
-- 92-100%: A
-- 87-91%: A-
-- 85-87%: B+
-- 80-84%: B
-- 74-79%: B-
-- 71-74%: C+
-- 67-70%: C
-- 65-66%: C-
-- 60-64%: D
-- 0-59%: F
+- 100-92%: A
+- 91-87%: A-
+- 87-85%: B+
+- 84-80%: B
+- 79-74%: B-
+- 74-71%: C+
+- 70-67%: C
+- 66-65%: C-
+- 64-60%: D
+- 59-0%: F
 
 "Observational Astronomy" 3rd Ed. by Lena et al. will be the main textbook for the conceptual aspects of the course. It is available via the [UGA library](https://uga.view.usg.edu/content/enforced4/3247905-CO.180.ASTR3010.53676.20252/ObservationalAstrophysics.pdf?ou=3247905_) with proper credentials.
 
