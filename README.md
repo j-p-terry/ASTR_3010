@@ -69,5 +69,18 @@ Projects will be almost entirely computational. You will be expected to write co
   <li><strong>Assignment 5:</strong> Full data analysis and presentation pipeline with ALMA and/or JWST data</li>
 </ul>
 
+## Necessary Software
+
+- [Python 3.10+](https://www.python.org/)
+- [Jupyter Notebook](https://jupyter.org/)
+- [Astropy](https://www.astropy.org/)
+- [NumPy](https://numpy.org/)
+- [Matplotlib](https://matplotlib.org/)
+- [Pandas](https://pandas.pydata.org/)
+- [SciPy](https://www.scipy.org/)
+- More to come...
+
+We will be using lots of .fits files. When working with these in Python/Jupyter, I recommend using the [Astropy](https://docs.astropy.org/en/stable/io/fits/index.html) library. There are several packages that let you visualize .fits files, but I recommend using [QFitsView](https://www.mpe.mpg.de/~ott/QFitsView/) for this purpose.
+
 
 
