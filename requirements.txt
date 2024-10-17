@@ -1,0 +1,10 @@
+astropy
+jupyter
+matplotlib
+numpy
+pandas
+photutils
+scikit-learn
+scipy
+seaborn
+specutils
