@@ -80,7 +80,7 @@ Projects will be almost entirely computational. You will be expected to write co
 - [SciPy](https://www.scipy.org/)
 - More to come...
 
-We will be using lots of .fits files. When working with these in Python/Jupyter, I recommend using the [Astropy](https://docs.astropy.org/en/stable/io/fits/index.html) library. There are several packages that let you visualize .fits files, but I recommend using [QFitsView](https://www.mpe.mpg.de/~ott/QFitsView/) for this purpose.
+We will be using lots of .fits files. When working with these in Python/Jupyter, I recommend using the [Astropy](https://docs.astropy.org/en/stable/io/fits/index.html) library. There are several packages that let you visualize .fits files, but I recommend using [QFitsView](https://www.mpe.mpg.de/~ott/QFitsView/) or [DS9](https://sites.google.com/cfa.harvard.edu/saoimageds9) for this purpose.
 
 
 
