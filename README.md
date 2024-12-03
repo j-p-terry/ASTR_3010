@@ -11,7 +11,7 @@ The class format will be 8 one-hour lectures. There will be a total of 5 assignm
 
 - 100-92%: A
 - 91-87%: A-
-- 87-85%: B+
+- 86-85%: B+
 - 84-80%: B
 - 79-74%: B-
 - 74-71%: C+
